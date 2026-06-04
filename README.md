@@ -11,7 +11,7 @@ Produire un rapport d'analyse exploitable
 
 ## Workflow
 
-![alt text](image.png)
+![workflow](image.png)
 
 
 ## Contexte et périmètre
