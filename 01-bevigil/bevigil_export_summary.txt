@@ -1,0 +1,11 @@
+﻿SOURCE: https://bevigil.com/report/com.android.insecurebankv2
+DATE: 2026-05-20
+SCORE: 7.4 / 10 (AVERAGE)
+PACKAGE: com.android.insecurebankv2 v1.0
+MANIFEST: 4 LOW
+VULNERABILITIES: 23 LOW
+STRINGS: 1 LOW (possible secret)
+ASSETS: 144 LOW (52 file paths, 61 URLs, 23 hostnames, 2 REST API, 6 emails)
+TRACKERS: 3 (Google AdMob, Google Analytics, Google Tag Manager)
+LIBRARIES: 15
+PERMISSIONS: 2 safe / 5 risky

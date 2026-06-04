@@ -1,0 +1,10 @@
+Date d'analyse : 2026-06-04
+Analyste: NAFTAOUI NIAMA
+Cible: InsecureBank2
+Artefact: InsecureBank2.apk
+Provenance: APK p�dagogique
+Outils principaux : BeVigil (analyse externe), Yaazhini (analyse statique/décompilation)
+Versions outils:
+  - BeVigil: web
+  - Yaazhini: 2.0.2
+Environnement: Windows

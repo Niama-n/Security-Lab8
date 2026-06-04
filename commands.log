@@ -1,0 +1,14 @@
+﻿# Log des commandes - 2026-05-20 15:20:31
+Created scope.md
+Copy-Item InsecureBank2.apk -> 00-scope\
+Copy-Item InsecureBankv2.apk -> 00-scope\
+Hash SHA-256: B18AF2A0E44D7634BBCDF93664D9C78A2695E050393FCFBB5E8B91F902D194A4
+Created bevigil_notes.md from BeVigil report data
+Created bevigil_export_summary.txt
+Copied Yaazhini report to 02-yaazhini\
+Created yaazhini_notes.md from Yaazhini HTML report
+Copied yaazhini_report.html to 02-yaazhini\
+Created triage.csv with 12 findings
+Created owasp_mapping.md with 10 mappings
+Created rapport_final.md
+Created checklist_fin.md
